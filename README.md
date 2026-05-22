@@ -14,7 +14,7 @@ An analyzis of the European Union Emissions Trading System (EU-ETS), based on th
 ## Repository Architecture
 
     eu-ets-carbon-analysis/
-    ├── data/               # Input market data (CSVs, XLSX, MAT)
+    ├── data/               # Input market data (not uploaded)
     ├── output/             # Exported PNG visualisations
     ├── src/                # Core modular engine
     ├── mmain.py            # Pipeline script
