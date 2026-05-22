@@ -1,0 +1,24 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS hidden files
+.DS_Store
+Thumbs.db
+
+# Ignore all stray PNGs in the root directory (just in case)
+/*.png
+
+# Ignore data files (Prevents uploading massive datasets to GitHub)
+# (Comment these out if you WANT the recruiter to have your data)
+data/*
+!data/.gitkeep
+
+output/*
+!output/.gitkeep
