@@ -18,6 +18,7 @@ An analyzis of the European Union Emissions Trading System (EU-ETS), based on th
     ├── output/             # Exported PNG visualisations
     ├── src/                # Core modular engine
     ├── mmain.py            # Pipeline script
+    ├── FinalProject.pdf    # Report with project outline and findings
     └── requirements.txt    # Environment dependencies
 
 ## Quick Start
