@@ -23,7 +23,7 @@ from datetime import date
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, 'data')
-OUTPUT_DIR = os.path.join(ROOT_DIR, 'output')
+OUTPUT_DIR = os.path.join(BASE_DIR, 'output')
 
 CONFIG = {
     'start_year': 13,
